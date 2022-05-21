@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# SJTU_2021-2022-2_MS3402
 
-You can use the [editor on GitHub](https://github.com/grwei/SJTU_2021-2022-2_MS3402/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+本-(2021-2022-2)-MS3402-1-气候学与全球变化
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [课程主页](https://grwei.github.io/SJTU_2021-2022-2_MS3402/)
+- [个人主页](https://grwei.github.io/)
 
-### Markdown
+## Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Homework
 
-```markdown
-Syntax highlighted code block
+- [Chapter 1](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第1章_03082022.pdf) (2022-03-08)
+- [Chapter 2](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第2章_03182022.pdf) (2022-03-18)
+- [Chapter 3](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第3章_03252022.pdf) (2022-03-25)
+- [Chapter 4](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第4章_04032022.pdf) (2022-04-03)
+- [Chapter 6](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第6章_04122022.pdf) (2022-04-12)
+- [Chapter 7](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第7章_04302022.pdf) (2022-04-30)
+- [Chapter 9](https://grwei.github.io/SJTU_2021-2022-2_MS3402/hw/危国锐_第9章_05132022.pdf) (2022-05-13)
 
-# Header 1
-## Header 2
-### Header 3
+## Contact Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grwei/SJTU_2021-2022-2_MS3402/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Guorui Wei (危国锐)
+- E-mail: 313017602@qq.com; weiguorui@sjtu.edu.cn
+- Github: [https://github.com/grwei](https://github.com/grwei/)
