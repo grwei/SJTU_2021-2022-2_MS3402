@@ -2,3 +2,4 @@
 * text=auto
 canvas/course_files_export[[:space:]](1).zip filter=lfs diff=lfs merge=lfs -text
 canvas/Lecture07_OceanCirculation.pptx filter=lfs diff=lfs merge=lfs -text
+Lecture07_OceanCirculation filter=lfs diff=lfs merge=lfs -text
